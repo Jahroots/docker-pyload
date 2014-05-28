@@ -8,4 +8,4 @@ Usage
 
 To run the container, do the following:
 
-    docker run -d -P jahroots/pyload
+    docker run -d -P jahroots/docker-pyload
