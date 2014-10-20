@@ -1,7 +1,7 @@
-docker-pyload
+Docker-Pyload
 =============
 
-Sets up a container with pyload and ssh-server installed listening on 8000,7227 and 22.
+Sets up a container with [pyload](http://pyload.org/) and ssh-server installed listening on 8000,7227 and 22.
 
 Usage
 =============
