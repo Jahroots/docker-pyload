@@ -15,4 +15,5 @@ To run the container, do the following:
     
     
 Your pyload instance is now available by going to http://localhost:49167.
-Username: admin Password: admin
+Username: admin Password: admin for pyload
+Username: root  Password: root  for ssh
