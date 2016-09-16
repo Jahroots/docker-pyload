@@ -1,6 +1,7 @@
 Docker-Pyload
 =============
 
+[![](https://images.microbadger.com/badges/image/jahroots/docker-pyload.svg)](https://microbadger.com/images/jahroots/docker-pyload "Get your own version badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/jahroots/docker-pyload.svg)](https://microbadger.com/images/jahroots/docker-pyload "Get your own version badge on microbadger.com")
 
 Sets up a container with [pyload](http://pyload.org/) and ssh-server installed listening on 8000,7227 and 22.
